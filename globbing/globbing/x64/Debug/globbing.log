@@ -1,0 +1,7 @@
+﻿  globbing.cpp
+C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\globbing\globbing.cpp(66,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\globbing\globbing.cpp(165,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\globbing\globbing.cpp(166,23): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\globbing\globbing.cpp(188,20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\globbing\globbing.cpp(197,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  globbing.vcxproj -> C:\Users\alekk\OneDrive\Bureaublad\C++\globbing\x64\Debug\globbing.exe
